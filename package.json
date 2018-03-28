@@ -10,6 +10,14 @@
 	"categories": [
 		"Themes"
 	],
+	"keywords": [
+    "VSCode",
+    "Themes"
+	],
+	"galleryBanner": {
+    "color": "#8844ee",
+    "theme": "dark"
+  },
 	"icon": "icon.png",
 	"homepage": "https://www.origamid.com/",
 	"repository": {
