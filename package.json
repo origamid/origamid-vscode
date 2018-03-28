@@ -1,0 +1,28 @@
+{
+	"name": "origamid-theme",
+	"displayName": "Origamid Theme",
+	"description": "Official Origamid Theme",
+	"version": "1.0.0",
+	"publisher": "origamid",
+	"engines": {
+		"vscode": "^1.15.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"homepage": "https://www.origamid.com/",
+	"repository": {
+		"type": "git",
+		"url": "https://www.origamid.com/"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Origamid",
+				"uiTheme": "vs-dark",
+				"path": "./themes/origamid.json"
+			}
+		]
+	}
+}
