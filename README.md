@@ -1,6 +1,6 @@
 # Origamid Theme para o VSCode
 
-![Screenshot](./screen.png?raw=true)
+![Screenshot](./screenshot.png?raw=true)
 
 # Instalação
 
