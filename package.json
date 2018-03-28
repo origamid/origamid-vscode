@@ -14,7 +14,7 @@
 	"homepage": "https://www.origamid.com/",
 	"repository": {
 		"type": "git",
-		"url": "https://www.origamid.com/"
+		"url": "https://github.com/origamid/origamid-vscode.git"
 	},
 	"contributes": {
 		"themes": [
