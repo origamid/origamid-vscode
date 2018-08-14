@@ -631,7 +631,7 @@
       "foreground": "#f7f1ff"
     }
   }, {
-    "scope": ["variable", "variable.other"],
+    "scope": ["variable", "variable.other", "variable.other.constant.js"],
     "settings": {
       "foreground": "#f7f1ff"
     }
