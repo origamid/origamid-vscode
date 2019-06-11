@@ -683,7 +683,7 @@
       "foreground": "#99BBFE"
     }
   }, {
-    "scope": ["text.html.basic", "text.html.vue-html"],
+    "scope": ["text.html.basic", "text.html.vue-html", "text.html.php"],
     "settings": {
       "foreground": "#BBBBCC"
     }
