@@ -2,7 +2,7 @@
 	"name": "origamid-theme",
 	"displayName": "Origamid Theme",
 	"description": "Official Origamid Theme",
-	"version": "1.1.4",
+	"version": "1.1.5",
 	"publisher": "origamid",
 	"engines": {
 		"vscode": "^1.15.0"
