@@ -279,11 +279,17 @@
         "entity.name.function",
         "variable.other.object.property",
         "variable.other.property",
-        "storage.type.function.arrow",
         "punctuation.separator.key-value",
         "meta.definition.function.js"
       ],
       "settings": {
+        "foreground": "#FFDD44"
+      }
+    },
+    {
+      "scope": "storage.type.function.arrow",
+      "settings": {
+        "fontStyle": "normal",
         "foreground": "#FFDD44"
       }
     },
@@ -362,13 +368,6 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#99BBFE"
-      }
-    },
-    {
-      "scope": "storage.type.function.arrow",
-      "settings": {
-        "fontStyle": "normal",
         "foreground": "#99BBFE"
       }
     },
